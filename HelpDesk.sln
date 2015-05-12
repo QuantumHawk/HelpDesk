@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperLTModel", "..\..\SuperLTModel\SuperLTModel.csproj", "{B426F21D-6989-47C8-A93A-F34DE9A8487C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk", "E:\2\HelpDesk1\HelpDesk\HelpDesk.csproj", "{E2944325-2F75-49E4-8B57-F198A412872C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B426F21D-6989-47C8-A93A-F34DE9A8487C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B426F21D-6989-47C8-A93A-F34DE9A8487C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B426F21D-6989-47C8-A93A-F34DE9A8487C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B426F21D-6989-47C8-A93A-F34DE9A8487C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2944325-2F75-49E4-8B57-F198A412872C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2944325-2F75-49E4-8B57-F198A412872C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2944325-2F75-49E4-8B57-F198A412872C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2944325-2F75-49E4-8B57-F198A412872C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
